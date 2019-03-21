@@ -78,3 +78,4 @@ gem "font-awesome-rails"
 
 gem 'devise'
 
+gem 'web-console', '>= 3.3.0'
