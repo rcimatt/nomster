@@ -82,4 +82,6 @@ gem "geocoder"
 
 gem "figaro"
 
+gem 'carrierwave', '~> 1.0'
+
 gem 'web-console', '>= 3.3.0'
