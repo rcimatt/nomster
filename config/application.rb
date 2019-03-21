@@ -22,5 +22,7 @@ module Nomster
 
     # Precompile additional assets
     config.assets.precompile += %w( .svg .eot .woff .ttf )
+
+    config.web_console.development_only = false
   end
 end
