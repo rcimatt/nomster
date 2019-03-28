@@ -87,3 +87,5 @@ gem 'carrierwave', '~> 1.0'
 gem "fog-aws"
 
 gem 'web-console', '>= 3.3.0'
+
+gem 'sendgrid-ruby'
